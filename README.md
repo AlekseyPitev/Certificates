@@ -5,16 +5,16 @@
 - [Регулярные выражения в Python](https://stepik.org/cert/2094576)
 - [Инди-курс программирования на Python](https://stepik.org/cert/2029144)
 - курс «Симулятор SQL»
-- Интерактивный тренажер по SQL
+- [Интерактивный тренажер по SQL](https://stepik.org/cert/2041692)
 - Administrating a Microsoft SQL Server 2000
-- Data Science с Глебом Михайловым
-- Введение в Data Science и машинное обучение
-- Основы статистики
-- Основы статистики. Часть 2
+- [Основы статистики](https://stepik.org/cert/1729653)
+- [Основы статистики. Часть 2](https://stepik.org/cert/1809967)
+- [Data Science с Глебом Михайловым](https://stepik.org/cert/2034093)
+- [Введение в Data Science и машинное обучение])(https://stepik.org/cert/1968566)
 - Хакатон ПГК Data Wagon
 
 <details>
   <summary>Регулярные выражения в Python</summary>
   
-  ![](https://stepik.org/certificate/099267e39b2bfbd355715faba52b432ee1b0a752.png?resolution=medium)
+  ![Регулярные выражения в Python](https://stepik.org/certificate/099267e39b2bfbd355715faba52b432ee1b0a752.png?resolution=medium)
 </details>
