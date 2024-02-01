@@ -36,6 +36,8 @@
 <summary>Курс «Симулятор SQL»</summary>
   
 [Ссылка на сертификат](https://lab.karpov.courses/certificate/79276846-96f3-44d9-a4cd-f3503bac22dc/)
+
+![Изображение](Karpov_Симулятор_SQL_ru.jpg)
 </details>
 
 <details>
@@ -88,5 +90,7 @@
 <summary>Хакатон ПГК Data Wagon</summary>
   
 [Ссылка на сертификат](sert_Hakaton-PGK.pdf)
+
+![Изображение](sert_Hakaton-PGK.jpg)
 </details>
 
