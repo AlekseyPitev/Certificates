@@ -15,7 +15,9 @@
 
 <details>
 <summary>Основы анализа данных в Python</summary>
+  
 [Ссылка на сертификат](https://stepik.org/cert/2128295)
+
 ![Изображение](https://stepik.org/certificate/19162fe7fd1b57890e5eda973a0641255fc76a56.png?resolution=medium)
 </details>
 
