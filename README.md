@@ -2,8 +2,8 @@
 
 - [Основы анализа данных в Python](https://stepik.org/cert/2128295)
 - [Программирование на Python](https://stepik.org/cert/1771890)
-- Регулярные выражения в Python
-- Инди-курс программирования на Python
+- [Регулярные выражения в Python](https://stepik.org/cert/2094576)
+- [Инди-курс программирования на Python](https://stepik.org/cert/2029144)
 - курс «Симулятор SQL»
 - Интерактивный тренажер по SQL
 - Administrating a Microsoft SQL Server 2000
@@ -14,7 +14,7 @@
 - Хакатон ПГК Data Wagon
 
 <details>
-  <summary>Нажмите, чтобы раскрыть/скрыть текст</summary>
+  <summary>Регулярные выражения в Python</summary>
   
-  Здесь находится скрытый текст.
+  ![](https://stepik.org/certificate/099267e39b2bfbd355715faba52b432ee1b0a752.png?resolution=medium)
 </details>
