@@ -81,9 +81,9 @@
 <details>
 <summary>Введение в Data Science и машинное обучение</summary>
   
-[Ссылка на сертификат](https://stepik.org/cert/1968566)
+[Ссылка на сертификат](https://stepik.org/certificate/bcf535ecc455c415fbc02d75119b31459dd690d5.png)
 
-![Изображение](https://stepik.org/certificate/bcf535ecc455c415fbc02d75119b31459dd690d5.png)
+![Изображение]()
 </details>
 
 <details>
