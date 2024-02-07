@@ -1,6 +1,14 @@
 ### Полученные сертификаты
 
 <details>
+<summary>курс "Аналитик данных"</summary>
+  
+[Ссылка на сертификат](https://lab.karpov.courses/certificate/2136b186-a820-4b6d-8085-e82ff8ced682/)
+
+![Изображение]()
+</details>
+
+<details>
 <summary>Основы анализа данных в Python</summary>
   
 [Ссылка на сертификат](https://stepik.org/cert/2128295)
