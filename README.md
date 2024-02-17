@@ -6,6 +6,7 @@
 [Ссылка на сертификат](https://lab.karpov.courses/certificate/2136b186-a820-4b6d-8085-e82ff8ced682/)
 
 ![Изображение](DA_ru.jpg)
+![Пройденные модули и темы](DA_ru_pril.pdf)
 </details>
 
 <details>
