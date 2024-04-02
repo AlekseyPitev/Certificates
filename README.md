@@ -103,3 +103,10 @@
 ![Изображение](sert_Hakaton-PGK.jpg)
 </details>
 
+<details>
+<summary>Хакатон IT Purple Hack</summary>
+  
+[Ссылка на сертификат](sert_Hakaton-Purple.pdf)
+
+![Изображение](sert_Hakaton-Purple.jpg)
+</details>
