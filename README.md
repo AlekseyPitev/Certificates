@@ -42,6 +42,14 @@
 </details>
 
 <details>
+<summary>English for Python == Английский для Питона</summary>
+  
+[Ссылка на сертификат](https://stepik.org/cert/2446670)
+
+![Изображение](https://stepik.org/certificate/97f87ec4f2d4fb05913fbada7332a05efdb2dca6.png)
+</details>
+
+<details>
 <summary>Курс «Симулятор SQL»</summary>
   
 [Ссылка на сертификат](https://lab.karpov.courses/certificate/79276846-96f3-44d9-a4cd-f3503bac22dc/)
