@@ -49,6 +49,13 @@
 ![Изображение](https://stepik.org/certificate/7a5a81fe5635d2817d270c4a66d00b407063ac72.png)
 </details>
 
+<summary>Python от Python_Samurai: часть 2</summary>
+  
+[Ссылка на сертификат](https://stepik.org/cert/2545589)
+
+![Изображение](https://stepik.org/certificate/7205e8311e0a66854da4f5f87b6927e3c4ce0328.png)
+</details>
+
 <details>
 <summary>English for Python == Английский для Питона</summary>
   
