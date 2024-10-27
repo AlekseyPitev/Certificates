@@ -26,6 +26,14 @@
 </details>
 
 <details>
+<summary>Функциональное программирование на Python</summary>
+  
+[Ссылка на сертификат](https://stepik.org/cert/2589384)
+
+![Изображение](https://stepik.org/certificate/a5564e3120815f4a241edc395d6b553a486b4cd3.png)
+</details>
+
+<details>
 <summary>Регулярные выражения в Python</summary>
   
 [Ссылка на сертификат](https://stepik.org/cert/2094576)
